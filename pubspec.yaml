@@ -7,10 +7,10 @@ environment:
   sdk: ^3.5.0
 
 dependencies:
-  bloc: ^8.1.4
+  bloc: ^9.0.0
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.1.6
+  flutter_bloc: ^9.0.0
   flutter_localizations:
     sdk: flutter
   intl: ^0.19.0
@@ -21,7 +21,7 @@ dependencies:
   date_repository:
     path: package/date_repository
   formz: ^0.8.0
-  hydrated_bloc: ^9.1.5
+  hydrated_bloc: ^10.0.0
   firebase_auth_mocks: ^0.14.1
   fake_cloud_firestore: ^3.1.0
   path_provider: ^2.1.5
@@ -33,7 +33,7 @@ dependencies:
 
 
 dev_dependencies:
-  bloc_test: ^9.1.7
+  bloc_test: ^10.0.0
   cloud_firestore_odm_generator: ^1.0.0-dev.89
   flutter_test:
     sdk: flutter
